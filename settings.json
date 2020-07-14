@@ -1,0 +1,14 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.rulers": [80],
+
+    "window.zoomLevel": 0,
+    "explorer.confirmDelete": false,
+    "files.trimTrailingWhitespace": true,
+    "window.restoreWindows": "all",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.activityBar.visible": true,
+    "workbench.colorTheme": "FlatUI Dark"
+}
